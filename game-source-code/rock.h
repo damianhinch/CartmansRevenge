@@ -7,7 +7,7 @@
 //! Rock models a rock (coffin) that can fall and crush the game characters.
 /*! Rocks are placed around the gamescreen by the initialiser 
 (levelCreator). They can be disturbed by the movements of
-digdug, if he create a new tunnel underneath their position. Following such an event 
+digdug, if he creates a new tunnel underneath it' position. Following such an event 
 they fall through the tunnels and will crush any character whose position they pass through. 
 They stop their descent when they hit the ground.
 \author Damian Hinch, Joseph Penn

@@ -1,0 +1,722 @@
+system   W            wsystem.c:550  load_library_at_path             [   0.00079] Failed to load E:\Dropbox\WITS\3\Software\Game\Final Submission, Damian Hinch, Joseph Penn\executables\d3d9.dll (error: 126)
+system   I            wsystem.c:543  load_library_at_path             [   0.00354] Loaded C:\Windows\system32\d3d9.dll
+d3d      I         d3d_disp.cpp:879  _al_d3d_init_display             [   0.01584] Render-to-texture: 1
+system   I             system.c:268  al_install_system                [   0.01595] Allegro version: 5.0.3
+d3d      I         d3d_disp.cpp:1919 d3d_create_display_locked        [   0.01695] faux_fullscreen=0
+display  D   display_settings.c:486  _al_score_display_settings       [   0.01797] Score is : 897
+display  D   display_settings.c:486  _al_score_display_settings       [   0.01805] Score is : 897
+display  D   display_settings.c:486  _al_score_display_settings       [   0.01807] Score is : 897
+display  D   display_settings.c:486  _al_score_display_settings       [   0.01808] Score is : 897
+display  D   display_settings.c:486  _al_score_display_settings       [   0.01809] Score is : 769
+display  D   display_settings.c:486  _al_score_display_settings       [   0.01810] Score is : 769
+display  D   display_settings.c:486  _al_score_display_settings       [   0.01811] Score is : 769
+display  D   display_settings.c:486  _al_score_display_settings       [   0.01812] Score is : 769
+display  D   display_settings.c:357  _al_score_display_settings       [   0.01813] Single Buffer requirement not met.
+display  D   display_settings.c:357  _al_score_display_settings       [   0.01814] Single Buffer requirement not met.
+display  D   display_settings.c:357  _al_score_display_settings       [   0.01815] Single Buffer requirement not met.
+display  D   display_settings.c:357  _al_score_display_settings       [   0.01816] Single Buffer requirement not met.
+display  D   display_settings.c:357  _al_score_display_settings       [   0.01817] Single Buffer requirement not met.
+display  D   display_settings.c:357  _al_score_display_settings       [   0.01818] Single Buffer requirement not met.
+display  D   display_settings.c:357  _al_score_display_settings       [   0.01819] Single Buffer requirement not met.
+display  D   display_settings.c:357  _al_score_display_settings       [   0.01820] Single Buffer requirement not met.
+display  D   display_settings.c:486  _al_score_display_settings       [   0.01821] Score is : 769
+display  D   display_settings.c:486  _al_score_display_settings       [   0.01822] Score is : 769
+display  D   display_settings.c:486  _al_score_display_settings       [   0.01823] Score is : 769
+display  D   display_settings.c:486  _al_score_display_settings       [   0.01824] Score is : 769
+display  D   display_settings.c:486  _al_score_display_settings       [   0.01825] Score is : 769
+display  D   display_settings.c:486  _al_score_display_settings       [   0.01826] Score is : 641
+display  D   display_settings.c:486  _al_score_display_settings       [   0.01827] Score is : 641
+display  D   display_settings.c:486  _al_score_display_settings       [   0.01828] Score is : 641
+display  D   display_settings.c:486  _al_score_display_settings       [   0.01829] Score is : 641
+display  D   display_settings.c:486  _al_score_display_settings       [   0.01830] Score is : 641
+display  D   display_settings.c:357  _al_score_display_settings       [   0.01831] Single Buffer requirement not met.
+display  D   display_settings.c:357  _al_score_display_settings       [   0.01832] Single Buffer requirement not met.
+display  D   display_settings.c:357  _al_score_display_settings       [   0.01833] Single Buffer requirement not met.
+display  D   display_settings.c:357  _al_score_display_settings       [   0.01834] Single Buffer requirement not met.
+display  D   display_settings.c:357  _al_score_display_settings       [   0.01835] Single Buffer requirement not met.
+display  D   display_settings.c:357  _al_score_display_settings       [   0.01836] Single Buffer requirement not met.
+display  D   display_settings.c:357  _al_score_display_settings       [   0.01837] Single Buffer requirement not met.
+display  D   display_settings.c:357  _al_score_display_settings       [   0.01841] Single Buffer requirement not met.
+display  D   display_settings.c:357  _al_score_display_settings       [   0.01842] Single Buffer requirement not met.
+display  D   display_settings.c:357  _al_score_display_settings       [   0.01844] Single Buffer requirement not met.
+display  D   display_settings.c:486  _al_score_display_settings       [   0.01845] Score is : 897
+display  D   display_settings.c:486  _al_score_display_settings       [   0.01846] Score is : 897
+display  D   display_settings.c:486  _al_score_display_settings       [   0.01847] Score is : 897
+display  D   display_settings.c:486  _al_score_display_settings       [   0.01848] Score is : 897
+display  D   display_settings.c:486  _al_score_display_settings       [   0.01849] Score is : 897
+display  D   display_settings.c:486  _al_score_display_settings       [   0.01850] Score is : 897
+display  D   display_settings.c:486  _al_score_display_settings       [   0.01851] Score is : 897
+display  D   display_settings.c:486  _al_score_display_settings       [   0.01852] Score is : 769
+display  D   display_settings.c:486  _al_score_display_settings       [   0.01853] Score is : 769
+display  D   display_settings.c:486  _al_score_display_settings       [   0.01854] Score is : 769
+display  D   display_settings.c:486  _al_score_display_settings       [   0.01855] Score is : 769
+display  D   display_settings.c:486  _al_score_display_settings       [   0.01856] Score is : 769
+display  D   display_settings.c:486  _al_score_display_settings       [   0.01857] Score is : 769
+display  D   display_settings.c:486  _al_score_display_settings       [   0.01859] Score is : 769
+display  D   display_settings.c:357  _al_score_display_settings       [   0.01860] Single Buffer requirement not met.
+display  D   display_settings.c:357  _al_score_display_settings       [   0.01861] Single Buffer requirement not met.
+display  D   display_settings.c:357  _al_score_display_settings       [   0.01862] Single Buffer requirement not met.
+display  D   display_settings.c:357  _al_score_display_settings       [   0.01863] Single Buffer requirement not met.
+display  D   display_settings.c:357  _al_score_display_settings       [   0.01864] Single Buffer requirement not met.
+display  D   display_settings.c:357  _al_score_display_settings       [   0.01865] Single Buffer requirement not met.
+display  D   display_settings.c:357  _al_score_display_settings       [   0.01866] Single Buffer requirement not met.
+display  D   display_settings.c:357  _al_score_display_settings       [   0.01867] Single Buffer requirement not met.
+display  D   display_settings.c:357  _al_score_display_settings       [   0.01868] Single Buffer requirement not met.
+display  D   display_settings.c:357  _al_score_display_settings       [   0.01869] Single Buffer requirement not met.
+display  D   display_settings.c:357  _al_score_display_settings       [   0.01870] Single Buffer requirement not met.
+display  D   display_settings.c:357  _al_score_display_settings       [   0.01871] Single Buffer requirement not met.
+display  D   display_settings.c:357  _al_score_display_settings       [   0.01873] Single Buffer requirement not met.
+display  D   display_settings.c:357  _al_score_display_settings       [   0.01874] Single Buffer requirement not met.
+display  D   display_settings.c:486  _al_score_display_settings       [   0.01875] Score is : 769
+display  D   display_settings.c:486  _al_score_display_settings       [   0.01876] Score is : 769
+display  D   display_settings.c:486  _al_score_display_settings       [   0.01877] Score is : 769
+display  D   display_settings.c:486  _al_score_display_settings       [   0.01878] Score is : 769
+display  D   display_settings.c:486  _al_score_display_settings       [   0.01878] Score is : 769
+display  D   display_settings.c:486  _al_score_display_settings       [   0.01879] Score is : 769
+display  D   display_settings.c:486  _al_score_display_settings       [   0.01883] Score is : 769
+display  D   display_settings.c:486  _al_score_display_settings       [   0.01885] Score is : 641
+display  D   display_settings.c:486  _al_score_display_settings       [   0.01886] Score is : 641
+display  D   display_settings.c:486  _al_score_display_settings       [   0.01887] Score is : 641
+display  D   display_settings.c:486  _al_score_display_settings       [   0.01888] Score is : 641
+display  D   display_settings.c:486  _al_score_display_settings       [   0.01890] Score is : 641
+display  D   display_settings.c:486  _al_score_display_settings       [   0.01891] Score is : 641
+display  D   display_settings.c:486  _al_score_display_settings       [   0.01893] Score is : 641
+display  D   display_settings.c:357  _al_score_display_settings       [   0.01895] Single Buffer requirement not met.
+display  D   display_settings.c:357  _al_score_display_settings       [   0.01897] Single Buffer requirement not met.
+display  D   display_settings.c:357  _al_score_display_settings       [   0.01898] Single Buffer requirement not met.
+display  D   display_settings.c:357  _al_score_display_settings       [   0.01900] Single Buffer requirement not met.
+display  D   display_settings.c:357  _al_score_display_settings       [   0.01901] Single Buffer requirement not met.
+display  D   display_settings.c:357  _al_score_display_settings       [   0.01903] Single Buffer requirement not met.
+display  D   display_settings.c:357  _al_score_display_settings       [   0.01905] Single Buffer requirement not met.
+display  D   display_settings.c:357  _al_score_display_settings       [   0.01906] Single Buffer requirement not met.
+display  D   display_settings.c:357  _al_score_display_settings       [   0.01907] Single Buffer requirement not met.
+display  D   display_settings.c:357  _al_score_display_settings       [   0.01911] Single Buffer requirement not met.
+display  D   display_settings.c:357  _al_score_display_settings       [   0.01915] Single Buffer requirement not met.
+display  D   display_settings.c:357  _al_score_display_settings       [   0.01917] Single Buffer requirement not met.
+display  D   display_settings.c:357  _al_score_display_settings       [   0.01918] Single Buffer requirement not met.
+display  D   display_settings.c:357  _al_score_display_settings       [   0.01919] Single Buffer requirement not met.
+d3d      D         d3d_disp.cpp:1836 d3d_create_display_internals     [   0.01923] Trying format 0 of 92.
+d3d      I         d3d_disp.cpp:1514 d3d_display_thread_proc          [   0.01959] Chose a display format: 23
+d3d      I         d3d_disp.cpp:1583 d3d_display_thread_proc          [   0.01961] Normal window.
+d3d      I         d3d_disp.cpp:978  d3d_create_device                [   0.02883] Using no depth stencil buffer
+d3d      D         d3d_disp.cpp:1058 d3d_create_device                [   0.03862] BeginScene succeeded in create_device
+d3d      D         d3d_disp.cpp:1066 d3d_create_device                [   0.03869] Success
+d3d      D         d3d_disp.cpp:1859 d3d_create_display_internals     [   0.03878] Resumed after wait.
+d3d      I         d3d_disp.cpp:1884 d3d_create_display_internals     [   0.03888] Format 0 succeeded.
+dtor     D               dtor.c:184  _al_register_destructor          [   0.04371] added dtor for object 00C2F888, func 66681938
+system   W            wsystem.c:550  load_library_at_path             [   0.05091] Failed to load E:\Dropbox\WITS\3\Software\Game\Final Submission, Damian Hinch, Joseph Penn\executables\dsound.dll (error: 126)
+system   I            wsystem.c:543  load_library_at_path             [   0.05159] Loaded C:\Windows\system32\dsound.dll
+audio-dsound I           dsound.cpp:217  _dsound_open                     [   0.05163] Starting DirectSound...
+audio    I              audio.c:282  do_install_audio                 [   0.06426] Using DirectSound driver
+dtor     D               dtor.c:184  _al_register_destructor          [   0.06435] added dtor for object 00C53C58, func 6668272A
+dtor     D               dtor.c:184  _al_register_destructor          [   0.06439] added dtor for object 00C56398, func 66681C5D
+dtor     D               dtor.c:184  _al_register_destructor          [   0.07180] added dtor for object 00C566F0, func 66682603
+audio    D          kcm_mixer.c:122  _al_rechannel_matrix             [   0.07184] sample matrix:
+audio    D          kcm_mixer.c:128  _al_rechannel_matrix             [   0.07185] 
+audio    D          kcm_mixer.c:128  _al_rechannel_matrix             [   0.07186] 
+dtor     D               dtor.c:184  _al_register_destructor          [   0.07188] added dtor for object 00C564B0, func 66682603
+audio    D          kcm_mixer.c:122  _al_rechannel_matrix             [   0.07198] sample matrix:
+audio    D          kcm_mixer.c:128  _al_rechannel_matrix             [   0.07200] 
+audio    D          kcm_mixer.c:128  _al_rechannel_matrix             [   0.07201] 
+dtor     D               dtor.c:184  _al_register_destructor          [   0.07203] added dtor for object 00C565B0, func 66682603
+audio    D          kcm_mixer.c:122  _al_rechannel_matrix             [   0.07204] sample matrix:
+audio    D          kcm_mixer.c:128  _al_rechannel_matrix             [   0.07206] 
+audio    D          kcm_mixer.c:128  _al_rechannel_matrix             [   0.07206] 
+dtor     D               dtor.c:184  _al_register_destructor          [   0.07208] added dtor for object 00C5CB00, func 66682603
+audio    D          kcm_mixer.c:122  _al_rechannel_matrix             [   0.07209] sample matrix:
+audio    D          kcm_mixer.c:128  _al_rechannel_matrix             [   0.07210] 
+audio    D          kcm_mixer.c:128  _al_rechannel_matrix             [   0.07211] 
+dtor     D               dtor.c:184  _al_register_destructor          [   0.07212] added dtor for object 00C5CC50, func 66682603
+audio    D          kcm_mixer.c:122  _al_rechannel_matrix             [   0.07213] sample matrix:
+audio    D          kcm_mixer.c:128  _al_rechannel_matrix             [   0.07214] 
+audio    D          kcm_mixer.c:128  _al_rechannel_matrix             [   0.07215] 
+dtor     D               dtor.c:184  _al_register_destructor          [   0.07216] added dtor for object 00C5CDA0, func 66682603
+audio    D          kcm_mixer.c:122  _al_rechannel_matrix             [   0.07218] sample matrix:
+audio    D          kcm_mixer.c:128  _al_rechannel_matrix             [   0.07219] 
+audio    D          kcm_mixer.c:128  _al_rechannel_matrix             [   0.07220] 
+dtor     D               dtor.c:184  _al_register_destructor          [   0.07221] added dtor for object 00C5CEA0, func 66682603
+audio    D          kcm_mixer.c:122  _al_rechannel_matrix             [   0.07222] sample matrix:
+audio    D          kcm_mixer.c:128  _al_rechannel_matrix             [   0.07223] 
+audio    D          kcm_mixer.c:128  _al_rechannel_matrix             [   0.07224] 
+dtor     D               dtor.c:184  _al_register_destructor          [   0.07225] added dtor for object 00C5D050, func 66682603
+audio    D          kcm_mixer.c:122  _al_rechannel_matrix             [   0.07226] sample matrix:
+audio    D          kcm_mixer.c:128  _al_rechannel_matrix             [   0.07227] 
+audio    D          kcm_mixer.c:128  _al_rechannel_matrix             [   0.07228] 
+dtor     D               dtor.c:184  _al_register_destructor          [   0.07229] added dtor for object 00C5D1C0, func 66682603
+audio    D          kcm_mixer.c:122  _al_rechannel_matrix             [   0.07231] sample matrix:
+audio    D          kcm_mixer.c:128  _al_rechannel_matrix             [   0.07232] 
+audio    D          kcm_mixer.c:128  _al_rechannel_matrix             [   0.07233] 
+dtor     D               dtor.c:184  _al_register_destructor          [   0.07234] added dtor for object 00C5D330, func 66682603
+audio    D          kcm_mixer.c:122  _al_rechannel_matrix             [   0.07235] sample matrix:
+audio    D          kcm_mixer.c:128  _al_rechannel_matrix             [   0.07236] 
+audio    D          kcm_mixer.c:128  _al_rechannel_matrix             [   0.07237] 
+dtor     D               dtor.c:184  _al_register_destructor          [   0.07242] added dtor for object 00C5D430, func 66682603
+audio    D          kcm_mixer.c:122  _al_rechannel_matrix             [   0.07244] sample matrix:
+audio    D          kcm_mixer.c:128  _al_rechannel_matrix             [   0.07245] 
+audio    D          kcm_mixer.c:128  _al_rechannel_matrix             [   0.07246] 
+dtor     D               dtor.c:184  _al_register_destructor          [   0.07247] added dtor for object 00C5D530, func 66682603
+audio    D          kcm_mixer.c:122  _al_rechannel_matrix             [   0.07248] sample matrix:
+audio    D          kcm_mixer.c:128  _al_rechannel_matrix             [   0.07249] 
+audio    D          kcm_mixer.c:128  _al_rechannel_matrix             [   0.07250] 
+dtor     D               dtor.c:184  _al_register_destructor          [   0.07251] added dtor for object 00C5D630, func 66682603
+audio    D          kcm_mixer.c:122  _al_rechannel_matrix             [   0.07252] sample matrix:
+audio    D          kcm_mixer.c:128  _al_rechannel_matrix             [   0.07253] 
+audio    D          kcm_mixer.c:128  _al_rechannel_matrix             [   0.07254] 
+dtor     D               dtor.c:184  _al_register_destructor          [   0.07255] added dtor for object 00C5D730, func 66682603
+audio    D          kcm_mixer.c:122  _al_rechannel_matrix             [   0.07257] sample matrix:
+audio    D          kcm_mixer.c:128  _al_rechannel_matrix             [   0.07258] 
+audio    D          kcm_mixer.c:128  _al_rechannel_matrix             [   0.07258] 
+dtor     D               dtor.c:184  _al_register_destructor          [   0.07260] added dtor for object 00C5D830, func 66682603
+audio    D          kcm_mixer.c:122  _al_rechannel_matrix             [   0.07261] sample matrix:
+audio    D          kcm_mixer.c:128  _al_rechannel_matrix             [   0.07262] 
+audio    D          kcm_mixer.c:128  _al_rechannel_matrix             [   0.07263] 
+dtor     D               dtor.c:184  _al_register_destructor          [   0.07264] added dtor for object 00C5DA60, func 66682603
+audio    D          kcm_mixer.c:122  _al_rechannel_matrix             [   0.07265] sample matrix:
+audio    D          kcm_mixer.c:128  _al_rechannel_matrix             [   0.07266] 
+audio    D          kcm_mixer.c:128  _al_rechannel_matrix             [   0.07267] 
+dtor     D               dtor.c:184  _al_register_destructor          [   0.07268] added dtor for object 00C5DC10, func 66682603
+audio    D          kcm_mixer.c:122  _al_rechannel_matrix             [   0.07269] sample matrix:
+audio    D          kcm_mixer.c:128  _al_rechannel_matrix             [   0.07270] 
+audio    D          kcm_mixer.c:128  _al_rechannel_matrix             [   0.07271] 
+dtor     D               dtor.c:184  _al_register_destructor          [   0.07273] added dtor for object 00C5DDD8, func 66682603
+audio    D          kcm_mixer.c:122  _al_rechannel_matrix             [   0.07275] sample matrix:
+audio    D          kcm_mixer.c:128  _al_rechannel_matrix             [   0.07276] 
+audio    D          kcm_mixer.c:128  _al_rechannel_matrix             [   0.07277] 
+dtor     D               dtor.c:184  _al_register_destructor          [   0.07278] added dtor for object 00C5DED8, func 66682603
+audio    D          kcm_mixer.c:122  _al_rechannel_matrix             [   0.07279] sample matrix:
+audio    D          kcm_mixer.c:128  _al_rechannel_matrix             [   0.07280] 
+audio    D          kcm_mixer.c:128  _al_rechannel_matrix             [   0.07281] 
+dtor     D               dtor.c:184  _al_register_destructor          [   0.07282] added dtor for object 00C5DFD8, func 66682603
+audio    D          kcm_mixer.c:122  _al_rechannel_matrix             [   0.07283] sample matrix:
+audio    D          kcm_mixer.c:128  _al_rechannel_matrix             [   0.07284] 
+audio    D          kcm_mixer.c:128  _al_rechannel_matrix             [   0.07285] 
+dtor     D               dtor.c:184  _al_register_destructor          [   0.07286] added dtor for object 00C5E0D8, func 66682603
+audio    D          kcm_mixer.c:122  _al_rechannel_matrix             [   0.07287] sample matrix:
+audio    D          kcm_mixer.c:128  _al_rechannel_matrix             [   0.07288] 
+audio    D          kcm_mixer.c:128  _al_rechannel_matrix             [   0.07289] 
+dtor     D               dtor.c:184  _al_register_destructor          [   0.07290] added dtor for object 00C5E1D8, func 66682603
+audio    D          kcm_mixer.c:122  _al_rechannel_matrix             [   0.07291] sample matrix:
+audio    D          kcm_mixer.c:128  _al_rechannel_matrix             [   0.07292] 
+audio    D          kcm_mixer.c:128  _al_rechannel_matrix             [   0.07293] 
+dtor     D               dtor.c:184  _al_register_destructor          [   0.07294] added dtor for object 00C5E2D8, func 66682603
+audio    D          kcm_mixer.c:122  _al_rechannel_matrix             [   0.07295] sample matrix:
+audio    D          kcm_mixer.c:128  _al_rechannel_matrix             [   0.07296] 
+audio    D          kcm_mixer.c:128  _al_rechannel_matrix             [   0.07297] 
+dtor     D               dtor.c:184  _al_register_destructor          [   0.07298] added dtor for object 00C5E3D8, func 66682603
+audio    D          kcm_mixer.c:122  _al_rechannel_matrix             [   0.07299] sample matrix:
+audio    D          kcm_mixer.c:128  _al_rechannel_matrix             [   0.07300] 
+audio    D          kcm_mixer.c:128  _al_rechannel_matrix             [   0.07301] 
+dtor     D               dtor.c:184  _al_register_destructor          [   0.07302] added dtor for object 00C5E4D8, func 66682603
+audio    D          kcm_mixer.c:122  _al_rechannel_matrix             [   0.07303] sample matrix:
+audio    D          kcm_mixer.c:128  _al_rechannel_matrix             [   0.07304] 
+audio    D          kcm_mixer.c:128  _al_rechannel_matrix             [   0.07305] 
+dtor     D               dtor.c:184  _al_register_destructor          [   0.07306] added dtor for object 00C5E5D8, func 66682603
+audio    D          kcm_mixer.c:122  _al_rechannel_matrix             [   0.07307] sample matrix:
+audio    D          kcm_mixer.c:128  _al_rechannel_matrix             [   0.07308] 
+audio    D          kcm_mixer.c:128  _al_rechannel_matrix             [   0.07309] 
+dtor     D               dtor.c:184  _al_register_destructor          [   0.07311] added dtor for object 00C5E6D8, func 66682603
+audio    D          kcm_mixer.c:122  _al_rechannel_matrix             [   0.07312] sample matrix:
+audio    D          kcm_mixer.c:128  _al_rechannel_matrix             [   0.07313] 
+audio    D          kcm_mixer.c:128  _al_rechannel_matrix             [   0.07314] 
+dtor     D               dtor.c:184  _al_register_destructor          [   0.07315] added dtor for object 00C5E7D8, func 66682603
+audio    D          kcm_mixer.c:122  _al_rechannel_matrix             [   0.07316] sample matrix:
+audio    D          kcm_mixer.c:128  _al_rechannel_matrix             [   0.07317] 
+audio    D          kcm_mixer.c:128  _al_rechannel_matrix             [   0.07318] 
+dtor     D               dtor.c:184  _al_register_destructor          [   0.07319] added dtor for object 00C5E8D8, func 66682603
+audio    D          kcm_mixer.c:122  _al_rechannel_matrix             [   0.07320] sample matrix:
+audio    D          kcm_mixer.c:128  _al_rechannel_matrix             [   0.07321] 
+audio    D          kcm_mixer.c:128  _al_rechannel_matrix             [   0.07322] 
+dtor     D               dtor.c:184  _al_register_destructor          [   0.07323] added dtor for object 00C5E9D8, func 66682603
+audio    D          kcm_mixer.c:122  _al_rechannel_matrix             [   0.07324] sample matrix:
+audio    D          kcm_mixer.c:128  _al_rechannel_matrix             [   0.07325] 
+audio    D          kcm_mixer.c:128  _al_rechannel_matrix             [   0.07326] 
+font     D                ttf.c:556  al_load_ttf_font_f               [   0.07426] Font south park.ttf loaded with pixel size 28.
+font     D                ttf.c:558  al_load_ttf_font_f               [   0.07429]     ascent=21.0, descent=5.0, height=18.0
+font     D                ttf.c:587  al_load_ttf_font_f               [   0.07434] south park.ttf: Preparing cache for 95 glyphs.
+dtor     D               dtor.c:184  _al_register_destructor          [   0.07436] added dtor for object 00C28F50, func 66681D89
+font     D                ttf.c:556  al_load_ttf_font_f               [   0.07489] Font south park.ttf loaded with pixel size 24.
+font     D                ttf.c:558  al_load_ttf_font_f               [   0.07491]     ascent=18.0, descent=5.0, height=16.0
+font     D                ttf.c:587  al_load_ttf_font_f               [   0.07494] south park.ttf: Preparing cache for 95 glyphs.
+dtor     D               dtor.c:184  _al_register_destructor          [   0.07497] added dtor for object 00C68748, func 66681D89
+dtor     D               dtor.c:184  _al_register_destructor          [   0.07554] added dtor for object 00C4E200, func 66682590
+dtor     D               dtor.c:184  _al_register_destructor          [   0.07585] added dtor for object 00C4E248, func 66682590
+dtor     D               dtor.c:184  _al_register_destructor          [   0.07637] added dtor for object 00C4E290, func 66682590
+dtor     D               dtor.c:184  _al_register_destructor          [   0.07687] added dtor for object 00C4E2D8, func 66682590
+wav      I                wav.c:106  wav_open                         [   0.07720] Ignoring chunk: PAD 
+dtor     D               dtor.c:184  _al_register_destructor          [   0.07838] added dtor for object 00C4E320, func 66682590
+dtor     D               dtor.c:184  _al_register_destructor          [   0.08262] added dtor for object 00C5EAD8, func 66682603
+audio    D          kcm_mixer.c:122  _al_rechannel_matrix             [   0.08271] sample matrix:
+audio    D          kcm_mixer.c:128  _al_rechannel_matrix             [   0.08275]  0.500000
+audio    D          kcm_mixer.c:128  _al_rechannel_matrix             [   0.08277]  0.500000
+d3d      D         d3d_disp.cpp:1354 real_choose_bitmap_format        [   0.08344] Fake format
+d3d      D         d3d_disp.cpp:1354 real_choose_bitmap_format        [   0.08350] Fake format
+d3d      D         d3d_disp.cpp:1354 real_choose_bitmap_format        [   0.08351] Fake format
+d3d      D         d3d_disp.cpp:1354 real_choose_bitmap_format        [   0.08352] Fake format
+d3d      D         d3d_disp.cpp:1354 real_choose_bitmap_format        [   0.08353] Fake format
+d3d      D         d3d_disp.cpp:1354 real_choose_bitmap_format        [   0.08354] Fake format
+d3d      D         d3d_disp.cpp:1354 real_choose_bitmap_format        [   0.08355] Fake format
+d3d      D         d3d_disp.cpp:1354 real_choose_bitmap_format        [   0.08356] Fake format
+d3d      D         d3d_disp.cpp:1354 real_choose_bitmap_format        [   0.08357] Fake format
+d3d      D         d3d_disp.cpp:1362 real_choose_bitmap_format        [   0.08358] Alpha doesn't match
+d3d      D         d3d_disp.cpp:1369 real_choose_bitmap_format        [   0.08359] Adapter format is 23
+d3d      D         d3d_disp.cpp:1372 real_choose_bitmap_format        [   0.08360] Found a format
+d3d      I         d3d_disp.cpp:2446 _al_d3d_create_bitmap            [   0.08362] Chose bitmap format 9
+d3d      D          d3d_bmp.cpp:457  _al_d3d_sync_bitmap              [   0.08557] _al_d3d_sync_bitmap (system) ref count == 1
+d3d      D          d3d_bmp.cpp:462  _al_d3d_sync_bitmap              [   0.08563] _al_d3d_sync_bitmap (video) ref count == 2
+d3d      D          d3d_bmp.cpp:457  _al_d3d_sync_bitmap              [   0.08873] _al_d3d_sync_bitmap (system) ref count == 1
+d3d      D          d3d_bmp.cpp:462  _al_d3d_sync_bitmap              [   0.08876] _al_d3d_sync_bitmap (video) ref count == 2
+d3d      D          d3d_bmp.cpp:457  _al_d3d_sync_bitmap              [   0.08944] _al_d3d_sync_bitmap (system) ref count == 1
+d3d      D          d3d_bmp.cpp:462  _al_d3d_sync_bitmap              [   0.08946] _al_d3d_sync_bitmap (video) ref count == 2
+d3d      D          d3d_bmp.cpp:457  _al_d3d_sync_bitmap              [   0.09024] _al_d3d_sync_bitmap (system) ref count == 1
+d3d      D          d3d_bmp.cpp:462  _al_d3d_sync_bitmap              [   0.09030] _al_d3d_sync_bitmap (video) ref count == 2
+d3d      D          d3d_bmp.cpp:457  _al_d3d_sync_bitmap              [   0.09243] _al_d3d_sync_bitmap (system) ref count == 1
+d3d      D          d3d_bmp.cpp:462  _al_d3d_sync_bitmap              [   0.09247] _al_d3d_sync_bitmap (video) ref count == 2
+d3d      D          d3d_bmp.cpp:457  _al_d3d_sync_bitmap              [   0.09316] _al_d3d_sync_bitmap (system) ref count == 1
+d3d      D          d3d_bmp.cpp:462  _al_d3d_sync_bitmap              [   0.09319] _al_d3d_sync_bitmap (video) ref count == 2
+d3d      D          d3d_bmp.cpp:457  _al_d3d_sync_bitmap              [   0.09403] _al_d3d_sync_bitmap (system) ref count == 1
+d3d      D          d3d_bmp.cpp:462  _al_d3d_sync_bitmap              [   0.09406] _al_d3d_sync_bitmap (video) ref count == 2
+d3d      D          d3d_bmp.cpp:457  _al_d3d_sync_bitmap              [   0.09893] _al_d3d_sync_bitmap (system) ref count == 1
+d3d      D          d3d_bmp.cpp:462  _al_d3d_sync_bitmap              [   0.09899] _al_d3d_sync_bitmap (video) ref count == 2
+d3d      D          d3d_bmp.cpp:457  _al_d3d_sync_bitmap              [   0.10093] _al_d3d_sync_bitmap (system) ref count == 1
+d3d      D          d3d_bmp.cpp:462  _al_d3d_sync_bitmap              [   0.10097] _al_d3d_sync_bitmap (video) ref count == 2
+d3d      D          d3d_bmp.cpp:457  _al_d3d_sync_bitmap              [   0.10169] _al_d3d_sync_bitmap (system) ref count == 1
+d3d      D          d3d_bmp.cpp:462  _al_d3d_sync_bitmap              [   0.10172] _al_d3d_sync_bitmap (video) ref count == 2
+d3d      D          d3d_bmp.cpp:457  _al_d3d_sync_bitmap              [   0.10253] _al_d3d_sync_bitmap (system) ref count == 1
+d3d      D          d3d_bmp.cpp:462  _al_d3d_sync_bitmap              [   0.10255] _al_d3d_sync_bitmap (video) ref count == 2
+d3d      D          d3d_bmp.cpp:457  _al_d3d_sync_bitmap              [   0.10341] _al_d3d_sync_bitmap (system) ref count == 1
+d3d      D          d3d_bmp.cpp:462  _al_d3d_sync_bitmap              [   0.10345] _al_d3d_sync_bitmap (video) ref count == 2
+d3d      D          d3d_bmp.cpp:457  _al_d3d_sync_bitmap              [   0.10536] _al_d3d_sync_bitmap (system) ref count == 1
+d3d      D          d3d_bmp.cpp:462  _al_d3d_sync_bitmap              [   0.10538] _al_d3d_sync_bitmap (video) ref count == 2
+d3d      D          d3d_bmp.cpp:457  _al_d3d_sync_bitmap              [   0.10615] _al_d3d_sync_bitmap (system) ref count == 1
+d3d      D          d3d_bmp.cpp:462  _al_d3d_sync_bitmap              [   0.10617] _al_d3d_sync_bitmap (video) ref count == 2
+d3d      D          d3d_bmp.cpp:457  _al_d3d_sync_bitmap              [   0.11117] _al_d3d_sync_bitmap (system) ref count == 1
+d3d      D          d3d_bmp.cpp:462  _al_d3d_sync_bitmap              [   0.11124] _al_d3d_sync_bitmap (video) ref count == 2
+d3d      D          d3d_bmp.cpp:457  _al_d3d_sync_bitmap              [   0.11515] _al_d3d_sync_bitmap (system) ref count == 1
+d3d      D          d3d_bmp.cpp:462  _al_d3d_sync_bitmap              [   0.11521] _al_d3d_sync_bitmap (video) ref count == 2
+d3d      D          d3d_bmp.cpp:457  _al_d3d_sync_bitmap              [   0.11744] _al_d3d_sync_bitmap (system) ref count == 1
+d3d      D          d3d_bmp.cpp:462  _al_d3d_sync_bitmap              [   0.11748] _al_d3d_sync_bitmap (video) ref count == 2
+d3d      D          d3d_bmp.cpp:457  _al_d3d_sync_bitmap              [   0.11846] _al_d3d_sync_bitmap (system) ref count == 1
+d3d      D          d3d_bmp.cpp:462  _al_d3d_sync_bitmap              [   0.11850] _al_d3d_sync_bitmap (video) ref count == 2
+d3d      D          d3d_bmp.cpp:457  _al_d3d_sync_bitmap              [   0.11946] _al_d3d_sync_bitmap (system) ref count == 1
+d3d      D          d3d_bmp.cpp:462  _al_d3d_sync_bitmap              [   0.11949] _al_d3d_sync_bitmap (video) ref count == 2
+d3d      D          d3d_bmp.cpp:457  _al_d3d_sync_bitmap              [   0.12074] _al_d3d_sync_bitmap (system) ref count == 1
+d3d      D          d3d_bmp.cpp:462  _al_d3d_sync_bitmap              [   0.12080] _al_d3d_sync_bitmap (video) ref count == 2
+d3d      D          d3d_bmp.cpp:457  _al_d3d_sync_bitmap              [   0.12297] _al_d3d_sync_bitmap (system) ref count == 1
+d3d      D          d3d_bmp.cpp:462  _al_d3d_sync_bitmap              [   0.12300] _al_d3d_sync_bitmap (video) ref count == 2
+d3d      D          d3d_bmp.cpp:457  _al_d3d_sync_bitmap              [   0.12407] _al_d3d_sync_bitmap (system) ref count == 1
+d3d      D          d3d_bmp.cpp:462  _al_d3d_sync_bitmap              [   0.12412] _al_d3d_sync_bitmap (video) ref count == 2
+audio    D          kcm_mixer.c:122  _al_rechannel_matrix             [   3.06559] sample matrix:
+audio    D          kcm_mixer.c:128  _al_rechannel_matrix             [   3.06568]  0.500000
+audio    D          kcm_mixer.c:128  _al_rechannel_matrix             [   3.06573]  0.500000
+d3d      D          d3d_bmp.cpp:457  _al_d3d_sync_bitmap              [   3.60326] _al_d3d_sync_bitmap (system) ref count == 1
+d3d      D          d3d_bmp.cpp:462  _al_d3d_sync_bitmap              [   3.60334] _al_d3d_sync_bitmap (video) ref count == 2
+d3d      D          d3d_bmp.cpp:457  _al_d3d_sync_bitmap              [   3.60563] _al_d3d_sync_bitmap (system) ref count == 1
+d3d      D          d3d_bmp.cpp:462  _al_d3d_sync_bitmap              [   3.60571] _al_d3d_sync_bitmap (video) ref count == 2
+d3d      D          d3d_bmp.cpp:457  _al_d3d_sync_bitmap              [   3.60789] _al_d3d_sync_bitmap (system) ref count == 1
+d3d      D          d3d_bmp.cpp:462  _al_d3d_sync_bitmap              [   3.60805] _al_d3d_sync_bitmap (video) ref count == 2
+d3d      D          d3d_bmp.cpp:457  _al_d3d_sync_bitmap              [   3.61141] _al_d3d_sync_bitmap (system) ref count == 1
+d3d      D          d3d_bmp.cpp:462  _al_d3d_sync_bitmap              [   3.61143] _al_d3d_sync_bitmap (video) ref count == 2
+d3d      D          d3d_bmp.cpp:457  _al_d3d_sync_bitmap              [   3.61236] _al_d3d_sync_bitmap (system) ref count == 1
+d3d      D          d3d_bmp.cpp:462  _al_d3d_sync_bitmap              [   3.61238] _al_d3d_sync_bitmap (video) ref count == 2
+d3d      D          d3d_bmp.cpp:457  _al_d3d_sync_bitmap              [   3.61406] _al_d3d_sync_bitmap (system) ref count == 1
+d3d      D          d3d_bmp.cpp:462  _al_d3d_sync_bitmap              [   3.61408] _al_d3d_sync_bitmap (video) ref count == 2
+d3d      D          d3d_bmp.cpp:457  _al_d3d_sync_bitmap              [   3.61535] _al_d3d_sync_bitmap (system) ref count == 1
+d3d      D          d3d_bmp.cpp:462  _al_d3d_sync_bitmap              [   3.61537] _al_d3d_sync_bitmap (video) ref count == 2
+d3d      D          d3d_bmp.cpp:457  _al_d3d_sync_bitmap              [   3.61779] _al_d3d_sync_bitmap (system) ref count == 1
+d3d      D          d3d_bmp.cpp:462  _al_d3d_sync_bitmap              [   3.61782] _al_d3d_sync_bitmap (video) ref count == 2
+dtor     D               dtor.c:184  _al_register_destructor          [   5.67702] added dtor for object 06C36ED8, func 66681938
+dtor     D               dtor.c:184  _al_register_destructor          [   5.67711] added dtor for object 00D2BCA0, func 666826E9
+font     D                ttf.c:556  al_load_ttf_font_f               [   5.67812] Font south park.ttf loaded with pixel size 28.
+font     D                ttf.c:558  al_load_ttf_font_f               [   5.67818]     ascent=21.0, descent=5.0, height=18.0
+font     D                ttf.c:587  al_load_ttf_font_f               [   5.67825] south park.ttf: Preparing cache for 95 glyphs.
+dtor     D               dtor.c:184  _al_register_destructor          [   5.67829] added dtor for object 00C68C50, func 66681D89
+font     D                ttf.c:556  al_load_ttf_font_f               [   5.67923] Font south park.ttf loaded with pixel size 24.
+font     D                ttf.c:558  al_load_ttf_font_f               [   5.67932]     ascent=18.0, descent=5.0, height=16.0
+font     D                ttf.c:587  al_load_ttf_font_f               [   5.67941] south park.ttf: Preparing cache for 95 glyphs.
+dtor     D               dtor.c:184  _al_register_destructor          [   5.67946] added dtor for object 00C68CC0, func 66681D89
+wav      I                wav.c:106  wav_open                         [   5.67958] Ignoring chunk: PAD 
+dtor     D               dtor.c:184  _al_register_destructor          [   5.67962] added dtor for object 00C4E6C8, func 66682590
+dtor     D               dtor.c:184  _al_register_destructor          [   5.67975] added dtor for object 00C4E710, func 66682590
+wav      I                wav.c:106  wav_open                         [   5.67986] Ignoring chunk: PAD 
+dtor     D               dtor.c:184  _al_register_destructor          [   5.67992] added dtor for object 00C4E758, func 66682590
+dtor     D               dtor.c:184  _al_register_destructor          [   5.68018] added dtor for object 00C4E7A0, func 66682590
+dtor     D               dtor.c:184  _al_register_destructor          [   5.68048] added dtor for object 00C4E7E8, func 66682590
+dtor     D               dtor.c:184  _al_register_destructor          [   5.68060] added dtor for object 06CE94D0, func 66682590
+dtor     D               dtor.c:184  _al_register_destructor          [   5.68078] added dtor for object 06CE9518, func 66682590
+dtor     D               dtor.c:184  _al_register_destructor          [   5.68105] added dtor for object 06CE9560, func 66682590
+dtor     D               dtor.c:184  _al_register_destructor          [   5.68133] added dtor for object 06CE95A8, func 66682590
+wav      I                wav.c:106  wav_open                         [   5.68149] Ignoring chunk: PAD 
+dtor     D               dtor.c:184  _al_register_destructor          [   5.68156] added dtor for object 06CE95F0, func 66682590
+wav      I                wav.c:106  wav_open                         [   5.68169] Ignoring chunk: PAD 
+dtor     D               dtor.c:184  _al_register_destructor          [   5.68172] added dtor for object 06CE9638, func 66682590
+dtor     D               dtor.c:184  _al_register_destructor          [   5.68189] added dtor for object 06CE9680, func 66682590
+wav      I                wav.c:106  wav_open                         [   5.68203] Ignoring chunk: PAD 
+dtor     D               dtor.c:184  _al_register_destructor          [   5.68206] added dtor for object 06CE96C8, func 66682590
+dtor     D               dtor.c:184  _al_register_destructor          [   5.68220] added dtor for object 06CE9710, func 66682590
+d3d      D          d3d_bmp.cpp:457  _al_d3d_sync_bitmap              [   5.71616] _al_d3d_sync_bitmap (system) ref count == 1
+d3d      D          d3d_bmp.cpp:462  _al_d3d_sync_bitmap              [   5.71620] _al_d3d_sync_bitmap (video) ref count == 2
+d3d      D          d3d_bmp.cpp:457  _al_d3d_sync_bitmap              [   5.71744] _al_d3d_sync_bitmap (system) ref count == 1
+d3d      D          d3d_bmp.cpp:462  _al_d3d_sync_bitmap              [   5.71748] _al_d3d_sync_bitmap (video) ref count == 2
+d3d      D          d3d_bmp.cpp:457  _al_d3d_sync_bitmap              [   5.71858] _al_d3d_sync_bitmap (system) ref count == 1
+d3d      D          d3d_bmp.cpp:462  _al_d3d_sync_bitmap              [   5.71862] _al_d3d_sync_bitmap (video) ref count == 2
+d3d      D          d3d_bmp.cpp:457  _al_d3d_sync_bitmap              [   5.71989] _al_d3d_sync_bitmap (system) ref count == 1
+d3d      D          d3d_bmp.cpp:462  _al_d3d_sync_bitmap              [   5.71992] _al_d3d_sync_bitmap (video) ref count == 2
+d3d      D          d3d_bmp.cpp:457  _al_d3d_sync_bitmap              [   5.72190] _al_d3d_sync_bitmap (system) ref count == 1
+d3d      D          d3d_bmp.cpp:462  _al_d3d_sync_bitmap              [   5.72194] _al_d3d_sync_bitmap (video) ref count == 2
+d3d      D         d3d_disp.cpp:1354 real_choose_bitmap_format        [   5.72290] Fake format
+d3d      D         d3d_disp.cpp:1354 real_choose_bitmap_format        [   5.72293] Fake format
+d3d      D         d3d_disp.cpp:1354 real_choose_bitmap_format        [   5.72295] Fake format
+d3d      D         d3d_disp.cpp:1354 real_choose_bitmap_format        [   5.72297] Fake format
+d3d      D         d3d_disp.cpp:1354 real_choose_bitmap_format        [   5.72299] Fake format
+d3d      D         d3d_disp.cpp:1354 real_choose_bitmap_format        [   5.72300] Fake format
+d3d      D         d3d_disp.cpp:1354 real_choose_bitmap_format        [   5.72302] Fake format
+d3d      D         d3d_disp.cpp:1354 real_choose_bitmap_format        [   5.72303] Fake format
+d3d      D         d3d_disp.cpp:1354 real_choose_bitmap_format        [   5.72304] Fake format
+d3d      D         d3d_disp.cpp:1362 real_choose_bitmap_format        [   5.72306] Alpha doesn't match
+d3d      D         d3d_disp.cpp:1369 real_choose_bitmap_format        [   5.72307] Adapter format is 23
+d3d      D         d3d_disp.cpp:1372 real_choose_bitmap_format        [   5.72309] Found a format
+d3d      I         d3d_disp.cpp:2446 _al_d3d_create_bitmap            [   5.72311] Chose bitmap format 9
+d3d      D          d3d_bmp.cpp:457  _al_d3d_sync_bitmap              [   5.72429] _al_d3d_sync_bitmap (system) ref count == 1
+d3d      D          d3d_bmp.cpp:462  _al_d3d_sync_bitmap              [   5.72436] _al_d3d_sync_bitmap (video) ref count == 2
+d3d      D          d3d_bmp.cpp:457  _al_d3d_sync_bitmap              [   5.72592] _al_d3d_sync_bitmap (system) ref count == 1
+d3d      D          d3d_bmp.cpp:462  _al_d3d_sync_bitmap              [   5.72595] _al_d3d_sync_bitmap (video) ref count == 2
+d3d      D          d3d_bmp.cpp:457  _al_d3d_sync_bitmap              [   5.72785] _al_d3d_sync_bitmap (system) ref count == 1
+d3d      D          d3d_bmp.cpp:462  _al_d3d_sync_bitmap              [   5.72787] _al_d3d_sync_bitmap (video) ref count == 2
+d3d      D          d3d_bmp.cpp:457  _al_d3d_sync_bitmap              [   5.72889] _al_d3d_sync_bitmap (system) ref count == 1
+d3d      D          d3d_bmp.cpp:462  _al_d3d_sync_bitmap              [   5.72892] _al_d3d_sync_bitmap (video) ref count == 2
+d3d      D          d3d_bmp.cpp:457  _al_d3d_sync_bitmap              [   5.72987] _al_d3d_sync_bitmap (system) ref count == 1
+d3d      D          d3d_bmp.cpp:462  _al_d3d_sync_bitmap              [   5.72990] _al_d3d_sync_bitmap (video) ref count == 2
+d3d      D          d3d_bmp.cpp:457  _al_d3d_sync_bitmap              [   5.73219] _al_d3d_sync_bitmap (system) ref count == 1
+d3d      D          d3d_bmp.cpp:462  _al_d3d_sync_bitmap              [   5.73222] _al_d3d_sync_bitmap (video) ref count == 2
+d3d      D          d3d_bmp.cpp:457  _al_d3d_sync_bitmap              [   5.73319] _al_d3d_sync_bitmap (system) ref count == 1
+d3d      D          d3d_bmp.cpp:462  _al_d3d_sync_bitmap              [   5.73322] _al_d3d_sync_bitmap (video) ref count == 2
+d3d      D          d3d_bmp.cpp:457  _al_d3d_sync_bitmap              [   5.73394] _al_d3d_sync_bitmap (system) ref count == 1
+d3d      D          d3d_bmp.cpp:462  _al_d3d_sync_bitmap              [   5.73396] _al_d3d_sync_bitmap (video) ref count == 2
+d3d      D          d3d_bmp.cpp:457  _al_d3d_sync_bitmap              [   5.73469] _al_d3d_sync_bitmap (system) ref count == 1
+d3d      D          d3d_bmp.cpp:462  _al_d3d_sync_bitmap              [   5.73471] _al_d3d_sync_bitmap (video) ref count == 2
+d3d      D          d3d_bmp.cpp:457  _al_d3d_sync_bitmap              [   5.73663] _al_d3d_sync_bitmap (system) ref count == 1
+d3d      D          d3d_bmp.cpp:462  _al_d3d_sync_bitmap              [   5.73666] _al_d3d_sync_bitmap (video) ref count == 2
+d3d      D          d3d_bmp.cpp:457  _al_d3d_sync_bitmap              [   5.73769] _al_d3d_sync_bitmap (system) ref count == 1
+d3d      D          d3d_bmp.cpp:462  _al_d3d_sync_bitmap              [   5.73772] _al_d3d_sync_bitmap (video) ref count == 2
+d3d      D          d3d_bmp.cpp:457  _al_d3d_sync_bitmap              [   5.73870] _al_d3d_sync_bitmap (system) ref count == 1
+d3d      D          d3d_bmp.cpp:462  _al_d3d_sync_bitmap              [   5.73873] _al_d3d_sync_bitmap (video) ref count == 2
+d3d      D          d3d_bmp.cpp:457  _al_d3d_sync_bitmap              [   5.73988] _al_d3d_sync_bitmap (system) ref count == 1
+d3d      D          d3d_bmp.cpp:462  _al_d3d_sync_bitmap              [   5.73991] _al_d3d_sync_bitmap (video) ref count == 2
+d3d      D          d3d_bmp.cpp:457  _al_d3d_sync_bitmap              [   5.74219] _al_d3d_sync_bitmap (system) ref count == 1
+d3d      D          d3d_bmp.cpp:462  _al_d3d_sync_bitmap              [   5.74226] _al_d3d_sync_bitmap (video) ref count == 2
+d3d      D          d3d_bmp.cpp:457  _al_d3d_sync_bitmap              [   5.74407] _al_d3d_sync_bitmap (system) ref count == 1
+d3d      D          d3d_bmp.cpp:462  _al_d3d_sync_bitmap              [   5.74413] _al_d3d_sync_bitmap (video) ref count == 2
+d3d      D          d3d_bmp.cpp:457  _al_d3d_sync_bitmap              [   5.74586] _al_d3d_sync_bitmap (system) ref count == 1
+d3d      D          d3d_bmp.cpp:462  _al_d3d_sync_bitmap              [   5.74588] _al_d3d_sync_bitmap (video) ref count == 2
+d3d      D          d3d_bmp.cpp:457  _al_d3d_sync_bitmap              [   5.74674] _al_d3d_sync_bitmap (system) ref count == 1
+d3d      D          d3d_bmp.cpp:462  _al_d3d_sync_bitmap              [   5.74676] _al_d3d_sync_bitmap (video) ref count == 2
+d3d      D          d3d_bmp.cpp:457  _al_d3d_sync_bitmap              [   5.74776] _al_d3d_sync_bitmap (system) ref count == 1
+d3d      D          d3d_bmp.cpp:462  _al_d3d_sync_bitmap              [   5.74778] _al_d3d_sync_bitmap (video) ref count == 2
+d3d      D          d3d_bmp.cpp:457  _al_d3d_sync_bitmap              [   5.74895] _al_d3d_sync_bitmap (system) ref count == 1
+d3d      D          d3d_bmp.cpp:462  _al_d3d_sync_bitmap              [   5.74897] _al_d3d_sync_bitmap (video) ref count == 2
+d3d      D          d3d_bmp.cpp:457  _al_d3d_sync_bitmap              [   5.74981] _al_d3d_sync_bitmap (system) ref count == 1
+d3d      D          d3d_bmp.cpp:462  _al_d3d_sync_bitmap              [   5.74984] _al_d3d_sync_bitmap (video) ref count == 2
+d3d      D          d3d_bmp.cpp:457  _al_d3d_sync_bitmap              [   5.75070] _al_d3d_sync_bitmap (system) ref count == 1
+d3d      D          d3d_bmp.cpp:462  _al_d3d_sync_bitmap              [   5.75072] _al_d3d_sync_bitmap (video) ref count == 2
+d3d      D          d3d_bmp.cpp:457  _al_d3d_sync_bitmap              [   5.75175] _al_d3d_sync_bitmap (system) ref count == 1
+d3d      D          d3d_bmp.cpp:462  _al_d3d_sync_bitmap              [   5.75177] _al_d3d_sync_bitmap (video) ref count == 2
+d3d      D          d3d_bmp.cpp:457  _al_d3d_sync_bitmap              [   5.75286] _al_d3d_sync_bitmap (system) ref count == 1
+d3d      D          d3d_bmp.cpp:462  _al_d3d_sync_bitmap              [   5.75287] _al_d3d_sync_bitmap (video) ref count == 2
+d3d      D          d3d_bmp.cpp:457  _al_d3d_sync_bitmap              [   5.75373] _al_d3d_sync_bitmap (system) ref count == 1
+d3d      D          d3d_bmp.cpp:462  _al_d3d_sync_bitmap              [   5.75375] _al_d3d_sync_bitmap (video) ref count == 2
+d3d      D          d3d_bmp.cpp:457  _al_d3d_sync_bitmap              [   5.75463] _al_d3d_sync_bitmap (system) ref count == 1
+d3d      D          d3d_bmp.cpp:462  _al_d3d_sync_bitmap              [   5.75465] _al_d3d_sync_bitmap (video) ref count == 2
+d3d      D          d3d_bmp.cpp:457  _al_d3d_sync_bitmap              [   5.75568] _al_d3d_sync_bitmap (system) ref count == 1
+d3d      D          d3d_bmp.cpp:462  _al_d3d_sync_bitmap              [   5.75571] _al_d3d_sync_bitmap (video) ref count == 2
+d3d      D          d3d_bmp.cpp:457  _al_d3d_sync_bitmap              [   5.75685] _al_d3d_sync_bitmap (system) ref count == 1
+d3d      D          d3d_bmp.cpp:462  _al_d3d_sync_bitmap              [   5.75686] _al_d3d_sync_bitmap (video) ref count == 2
+d3d      D          d3d_bmp.cpp:457  _al_d3d_sync_bitmap              [   5.75786] _al_d3d_sync_bitmap (system) ref count == 1
+d3d      D          d3d_bmp.cpp:462  _al_d3d_sync_bitmap              [   5.75788] _al_d3d_sync_bitmap (video) ref count == 2
+d3d      D          d3d_bmp.cpp:457  _al_d3d_sync_bitmap              [   5.75871] _al_d3d_sync_bitmap (system) ref count == 1
+d3d      D          d3d_bmp.cpp:462  _al_d3d_sync_bitmap              [   5.75873] _al_d3d_sync_bitmap (video) ref count == 2
+d3d      D          d3d_bmp.cpp:457  _al_d3d_sync_bitmap              [   5.75961] _al_d3d_sync_bitmap (system) ref count == 1
+d3d      D          d3d_bmp.cpp:462  _al_d3d_sync_bitmap              [   5.75963] _al_d3d_sync_bitmap (video) ref count == 2
+d3d      D          d3d_bmp.cpp:457  _al_d3d_sync_bitmap              [   5.76115] _al_d3d_sync_bitmap (system) ref count == 1
+d3d      D          d3d_bmp.cpp:462  _al_d3d_sync_bitmap              [   5.76117] _al_d3d_sync_bitmap (video) ref count == 2
+d3d      D          d3d_bmp.cpp:457  _al_d3d_sync_bitmap              [   5.78950] _al_d3d_sync_bitmap (system) ref count == 1
+d3d      D          d3d_bmp.cpp:462  _al_d3d_sync_bitmap              [   5.78961] _al_d3d_sync_bitmap (video) ref count == 2
+d3d      D          d3d_bmp.cpp:457  _al_d3d_sync_bitmap              [   5.79073] _al_d3d_sync_bitmap (system) ref count == 1
+d3d      D          d3d_bmp.cpp:462  _al_d3d_sync_bitmap              [   5.79076] _al_d3d_sync_bitmap (video) ref count == 2
+d3d      D          d3d_bmp.cpp:457  _al_d3d_sync_bitmap              [  11.47424] _al_d3d_sync_bitmap (system) ref count == 1
+d3d      D          d3d_bmp.cpp:462  _al_d3d_sync_bitmap              [  11.47428] _al_d3d_sync_bitmap (video) ref count == 2
+d3d      D          d3d_bmp.cpp:457  _al_d3d_sync_bitmap              [  11.50142] _al_d3d_sync_bitmap (system) ref count == 1
+d3d      D          d3d_bmp.cpp:462  _al_d3d_sync_bitmap              [  11.50146] _al_d3d_sync_bitmap (video) ref count == 2
+audio    D          kcm_mixer.c:122  _al_rechannel_matrix             [  20.18168] sample matrix:
+audio    D          kcm_mixer.c:128  _al_rechannel_matrix             [  20.18172]  0.500000
+audio    D          kcm_mixer.c:128  _al_rechannel_matrix             [  20.18174]  0.500000
+d3d      D          d3d_bmp.cpp:457  _al_d3d_sync_bitmap              [  21.44035] _al_d3d_sync_bitmap (system) ref count == 1
+d3d      D          d3d_bmp.cpp:462  _al_d3d_sync_bitmap              [  21.44039] _al_d3d_sync_bitmap (video) ref count == 2
+d3d      D          d3d_bmp.cpp:457  _al_d3d_sync_bitmap              [  21.47131] _al_d3d_sync_bitmap (system) ref count == 1
+d3d      D          d3d_bmp.cpp:462  _al_d3d_sync_bitmap              [  21.47142] _al_d3d_sync_bitmap (video) ref count == 2
+dtor     D               dtor.c:184  _al_register_destructor          [  32.61674] added dtor for object 06C88710, func 66681938
+dtor     D               dtor.c:184  _al_register_destructor          [  32.61682] added dtor for object 06C887A8, func 666826E9
+font     D                ttf.c:556  al_load_ttf_font_f               [  32.61779] Font south park.ttf loaded with pixel size 28.
+font     D                ttf.c:558  al_load_ttf_font_f               [  32.61784]     ascent=21.0, descent=5.0, height=18.0
+font     D                ttf.c:587  al_load_ttf_font_f               [  32.61792] south park.ttf: Preparing cache for 95 glyphs.
+dtor     D               dtor.c:184  _al_register_destructor          [  32.61796] added dtor for object 00D2ECB8, func 66681D89
+font     D                ttf.c:556  al_load_ttf_font_f               [  32.61888] Font south park.ttf loaded with pixel size 24.
+font     D                ttf.c:558  al_load_ttf_font_f               [  32.61893]     ascent=18.0, descent=5.0, height=16.0
+font     D                ttf.c:587  al_load_ttf_font_f               [  32.61902] south park.ttf: Preparing cache for 95 glyphs.
+dtor     D               dtor.c:184  _al_register_destructor          [  32.61906] added dtor for object 00D2EE40, func 66681D89
+wav      I                wav.c:106  wav_open                         [  32.61930] Ignoring chunk: PAD 
+dtor     D               dtor.c:184  _al_register_destructor          [  32.61946] added dtor for object 06CE9A70, func 66682590
+dtor     D               dtor.c:184  _al_register_destructor          [  32.61966] added dtor for object 06CE9AB8, func 66682590
+wav      I                wav.c:106  wav_open                         [  32.61977] Ignoring chunk: PAD 
+dtor     D               dtor.c:184  _al_register_destructor          [  32.61996] added dtor for object 06CE9B00, func 66682590
+dtor     D               dtor.c:184  _al_register_destructor          [  32.62065] added dtor for object 06CE9B48, func 66682590
+dtor     D               dtor.c:184  _al_register_destructor          [  32.62094] added dtor for object 06CE9B90, func 66682590
+dtor     D               dtor.c:184  _al_register_destructor          [  32.62119] added dtor for object 06CE9BD8, func 66682590
+dtor     D               dtor.c:184  _al_register_destructor          [  32.62152] added dtor for object 06CE9C20, func 66682590
+dtor     D               dtor.c:184  _al_register_destructor          [  32.62200] added dtor for object 06CE9C68, func 66682590
+dtor     D               dtor.c:184  _al_register_destructor          [  32.62234] added dtor for object 06CE9CB0, func 66682590
+wav      I                wav.c:106  wav_open                         [  32.62248] Ignoring chunk: PAD 
+dtor     D               dtor.c:184  _al_register_destructor          [  32.62255] added dtor for object 06CE9CF8, func 66682590
+wav      I                wav.c:106  wav_open                         [  32.62268] Ignoring chunk: PAD 
+dtor     D               dtor.c:184  _al_register_destructor          [  32.62271] added dtor for object 06CE9D40, func 66682590
+dtor     D               dtor.c:184  _al_register_destructor          [  32.62285] added dtor for object 06CE9D88, func 66682590
+wav      I                wav.c:106  wav_open                         [  32.62299] Ignoring chunk: PAD 
+dtor     D               dtor.c:184  _al_register_destructor          [  32.62303] added dtor for object 06CE9DD0, func 66682590
+dtor     D               dtor.c:184  _al_register_destructor          [  32.62315] added dtor for object 06CE9E18, func 66682590
+d3d      D         d3d_disp.cpp:1354 real_choose_bitmap_format        [  32.62640] Fake format
+d3d      D         d3d_disp.cpp:1354 real_choose_bitmap_format        [  32.62642] Fake format
+d3d      D         d3d_disp.cpp:1354 real_choose_bitmap_format        [  32.62643] Fake format
+d3d      D         d3d_disp.cpp:1354 real_choose_bitmap_format        [  32.62644] Fake format
+d3d      D         d3d_disp.cpp:1354 real_choose_bitmap_format        [  32.62645] Fake format
+d3d      D         d3d_disp.cpp:1354 real_choose_bitmap_format        [  32.62646] Fake format
+d3d      D         d3d_disp.cpp:1354 real_choose_bitmap_format        [  32.62647] Fake format
+d3d      D         d3d_disp.cpp:1354 real_choose_bitmap_format        [  32.62648] Fake format
+d3d      D         d3d_disp.cpp:1354 real_choose_bitmap_format        [  32.62649] Fake format
+d3d      D         d3d_disp.cpp:1362 real_choose_bitmap_format        [  32.62650] Alpha doesn't match
+d3d      D         d3d_disp.cpp:1369 real_choose_bitmap_format        [  32.62651] Adapter format is 23
+d3d      D         d3d_disp.cpp:1372 real_choose_bitmap_format        [  32.62652] Found a format
+d3d      I         d3d_disp.cpp:2446 _al_d3d_create_bitmap            [  32.62653] Chose bitmap format 9
+d3d      D          d3d_bmp.cpp:457  _al_d3d_sync_bitmap              [  32.62729] _al_d3d_sync_bitmap (system) ref count == 1
+d3d      D          d3d_bmp.cpp:462  _al_d3d_sync_bitmap              [  32.62732] _al_d3d_sync_bitmap (video) ref count == 2
+d3d      D          d3d_bmp.cpp:457  _al_d3d_sync_bitmap              [  32.62894] _al_d3d_sync_bitmap (system) ref count == 1
+d3d      D          d3d_bmp.cpp:462  _al_d3d_sync_bitmap              [  32.62897] _al_d3d_sync_bitmap (video) ref count == 2
+d3d      D          d3d_bmp.cpp:457  _al_d3d_sync_bitmap              [  32.62989] _al_d3d_sync_bitmap (system) ref count == 1
+d3d      D          d3d_bmp.cpp:462  _al_d3d_sync_bitmap              [  32.62991] _al_d3d_sync_bitmap (video) ref count == 2
+d3d      D          d3d_bmp.cpp:457  _al_d3d_sync_bitmap              [  32.63101] _al_d3d_sync_bitmap (system) ref count == 1
+d3d      D          d3d_bmp.cpp:462  _al_d3d_sync_bitmap              [  32.63105] _al_d3d_sync_bitmap (video) ref count == 2
+d3d      D          d3d_bmp.cpp:457  _al_d3d_sync_bitmap              [  32.63360] _al_d3d_sync_bitmap (system) ref count == 1
+d3d      D          d3d_bmp.cpp:462  _al_d3d_sync_bitmap              [  32.63362] _al_d3d_sync_bitmap (video) ref count == 2
+d3d      D          d3d_bmp.cpp:457  _al_d3d_sync_bitmap              [  32.63447] _al_d3d_sync_bitmap (system) ref count == 1
+d3d      D          d3d_bmp.cpp:462  _al_d3d_sync_bitmap              [  32.63449] _al_d3d_sync_bitmap (video) ref count == 2
+d3d      D          d3d_bmp.cpp:457  _al_d3d_sync_bitmap              [  32.63534] _al_d3d_sync_bitmap (system) ref count == 1
+d3d      D          d3d_bmp.cpp:462  _al_d3d_sync_bitmap              [  32.63536] _al_d3d_sync_bitmap (video) ref count == 2
+d3d      D          d3d_bmp.cpp:457  _al_d3d_sync_bitmap              [  32.63644] _al_d3d_sync_bitmap (system) ref count == 1
+d3d      D          d3d_bmp.cpp:462  _al_d3d_sync_bitmap              [  32.63647] _al_d3d_sync_bitmap (video) ref count == 2
+d3d      D          d3d_bmp.cpp:457  _al_d3d_sync_bitmap              [  32.63824] _al_d3d_sync_bitmap (system) ref count == 1
+d3d      D          d3d_bmp.cpp:462  _al_d3d_sync_bitmap              [  32.63826] _al_d3d_sync_bitmap (video) ref count == 2
+d3d      D          d3d_bmp.cpp:457  _al_d3d_sync_bitmap              [  32.63910] _al_d3d_sync_bitmap (system) ref count == 1
+d3d      D          d3d_bmp.cpp:462  _al_d3d_sync_bitmap              [  32.63912] _al_d3d_sync_bitmap (video) ref count == 2
+d3d      D          d3d_bmp.cpp:457  _al_d3d_sync_bitmap              [  32.63991] _al_d3d_sync_bitmap (system) ref count == 1
+d3d      D          d3d_bmp.cpp:462  _al_d3d_sync_bitmap              [  32.63993] _al_d3d_sync_bitmap (video) ref count == 2
+d3d      D          d3d_bmp.cpp:457  _al_d3d_sync_bitmap              [  32.64091] _al_d3d_sync_bitmap (system) ref count == 1
+d3d      D          d3d_bmp.cpp:462  _al_d3d_sync_bitmap              [  32.64093] _al_d3d_sync_bitmap (video) ref count == 2
+d3d      D          d3d_bmp.cpp:457  _al_d3d_sync_bitmap              [  32.64198] _al_d3d_sync_bitmap (system) ref count == 1
+d3d      D          d3d_bmp.cpp:462  _al_d3d_sync_bitmap              [  32.64200] _al_d3d_sync_bitmap (video) ref count == 2
+d3d      D          d3d_bmp.cpp:457  _al_d3d_sync_bitmap              [  32.64327] _al_d3d_sync_bitmap (system) ref count == 1
+d3d      D          d3d_bmp.cpp:462  _al_d3d_sync_bitmap              [  32.64329] _al_d3d_sync_bitmap (video) ref count == 2
+d3d      D          d3d_bmp.cpp:457  _al_d3d_sync_bitmap              [  32.64419] _al_d3d_sync_bitmap (system) ref count == 1
+d3d      D          d3d_bmp.cpp:462  _al_d3d_sync_bitmap              [  32.64421] _al_d3d_sync_bitmap (video) ref count == 2
+d3d      D          d3d_bmp.cpp:457  _al_d3d_sync_bitmap              [  32.64522] _al_d3d_sync_bitmap (system) ref count == 1
+d3d      D          d3d_bmp.cpp:462  _al_d3d_sync_bitmap              [  32.64523] _al_d3d_sync_bitmap (video) ref count == 2
+d3d      D          d3d_bmp.cpp:457  _al_d3d_sync_bitmap              [  32.64635] _al_d3d_sync_bitmap (system) ref count == 1
+d3d      D          d3d_bmp.cpp:462  _al_d3d_sync_bitmap              [  32.64637] _al_d3d_sync_bitmap (video) ref count == 2
+d3d      D          d3d_bmp.cpp:457  _al_d3d_sync_bitmap              [  32.64718] _al_d3d_sync_bitmap (system) ref count == 1
+d3d      D          d3d_bmp.cpp:462  _al_d3d_sync_bitmap              [  32.64720] _al_d3d_sync_bitmap (video) ref count == 2
+d3d      D          d3d_bmp.cpp:457  _al_d3d_sync_bitmap              [  32.64802] _al_d3d_sync_bitmap (system) ref count == 1
+d3d      D          d3d_bmp.cpp:462  _al_d3d_sync_bitmap              [  32.64804] _al_d3d_sync_bitmap (video) ref count == 2
+d3d      D          d3d_bmp.cpp:457  _al_d3d_sync_bitmap              [  32.64908] _al_d3d_sync_bitmap (system) ref count == 1
+d3d      D          d3d_bmp.cpp:462  _al_d3d_sync_bitmap              [  32.64910] _al_d3d_sync_bitmap (video) ref count == 2
+d3d      D          d3d_bmp.cpp:457  _al_d3d_sync_bitmap              [  32.65039] _al_d3d_sync_bitmap (system) ref count == 1
+d3d      D          d3d_bmp.cpp:462  _al_d3d_sync_bitmap              [  32.65041] _al_d3d_sync_bitmap (video) ref count == 2
+d3d      D          d3d_bmp.cpp:457  _al_d3d_sync_bitmap              [  32.65123] _al_d3d_sync_bitmap (system) ref count == 1
+d3d      D          d3d_bmp.cpp:462  _al_d3d_sync_bitmap              [  32.65125] _al_d3d_sync_bitmap (video) ref count == 2
+d3d      D          d3d_bmp.cpp:457  _al_d3d_sync_bitmap              [  32.65204] _al_d3d_sync_bitmap (system) ref count == 1
+d3d      D          d3d_bmp.cpp:462  _al_d3d_sync_bitmap              [  32.65206] _al_d3d_sync_bitmap (video) ref count == 2
+d3d      D          d3d_bmp.cpp:457  _al_d3d_sync_bitmap              [  32.65304] _al_d3d_sync_bitmap (system) ref count == 1
+d3d      D          d3d_bmp.cpp:462  _al_d3d_sync_bitmap              [  32.65306] _al_d3d_sync_bitmap (video) ref count == 2
+d3d      D          d3d_bmp.cpp:457  _al_d3d_sync_bitmap              [  32.65410] _al_d3d_sync_bitmap (system) ref count == 1
+d3d      D          d3d_bmp.cpp:462  _al_d3d_sync_bitmap              [  32.65412] _al_d3d_sync_bitmap (video) ref count == 2
+d3d      D          d3d_bmp.cpp:457  _al_d3d_sync_bitmap              [  32.65481] _al_d3d_sync_bitmap (system) ref count == 1
+d3d      D          d3d_bmp.cpp:462  _al_d3d_sync_bitmap              [  32.65482] _al_d3d_sync_bitmap (video) ref count == 2
+d3d      D          d3d_bmp.cpp:457  _al_d3d_sync_bitmap              [  32.65562] _al_d3d_sync_bitmap (system) ref count == 1
+d3d      D          d3d_bmp.cpp:462  _al_d3d_sync_bitmap              [  32.65564] _al_d3d_sync_bitmap (video) ref count == 2
+d3d      D          d3d_bmp.cpp:457  _al_d3d_sync_bitmap              [  32.65661] _al_d3d_sync_bitmap (system) ref count == 1
+d3d      D          d3d_bmp.cpp:462  _al_d3d_sync_bitmap              [  32.65662] _al_d3d_sync_bitmap (video) ref count == 2
+d3d      D          d3d_bmp.cpp:457  _al_d3d_sync_bitmap              [  32.65768] _al_d3d_sync_bitmap (system) ref count == 1
+d3d      D          d3d_bmp.cpp:462  _al_d3d_sync_bitmap              [  32.65769] _al_d3d_sync_bitmap (video) ref count == 2
+d3d      D          d3d_bmp.cpp:457  _al_d3d_sync_bitmap              [  32.65849] _al_d3d_sync_bitmap (system) ref count == 1
+d3d      D          d3d_bmp.cpp:462  _al_d3d_sync_bitmap              [  32.65850] _al_d3d_sync_bitmap (video) ref count == 2
+d3d      D          d3d_bmp.cpp:457  _al_d3d_sync_bitmap              [  32.65930] _al_d3d_sync_bitmap (system) ref count == 1
+d3d      D          d3d_bmp.cpp:462  _al_d3d_sync_bitmap              [  32.65932] _al_d3d_sync_bitmap (video) ref count == 2
+d3d      D          d3d_bmp.cpp:457  _al_d3d_sync_bitmap              [  32.68783] _al_d3d_sync_bitmap (system) ref count == 1
+d3d      D          d3d_bmp.cpp:462  _al_d3d_sync_bitmap              [  32.68788] _al_d3d_sync_bitmap (video) ref count == 2
+d3d      D          d3d_bmp.cpp:457  _al_d3d_sync_bitmap              [  37.22377] _al_d3d_sync_bitmap (system) ref count == 1
+d3d      D          d3d_bmp.cpp:462  _al_d3d_sync_bitmap              [  37.22383] _al_d3d_sync_bitmap (video) ref count == 2
+d3d      D          d3d_bmp.cpp:457  _al_d3d_sync_bitmap              [  37.22463] _al_d3d_sync_bitmap (system) ref count == 1
+d3d      D          d3d_bmp.cpp:462  _al_d3d_sync_bitmap              [  37.22465] _al_d3d_sync_bitmap (video) ref count == 2
+d3d      D          d3d_bmp.cpp:457  _al_d3d_sync_bitmap              [  37.22533] _al_d3d_sync_bitmap (system) ref count == 1
+d3d      D          d3d_bmp.cpp:462  _al_d3d_sync_bitmap              [  37.22535] _al_d3d_sync_bitmap (video) ref count == 2
+d3d      D          d3d_bmp.cpp:457  _al_d3d_sync_bitmap              [  37.22599] _al_d3d_sync_bitmap (system) ref count == 1
+d3d      D          d3d_bmp.cpp:462  _al_d3d_sync_bitmap              [  37.22601] _al_d3d_sync_bitmap (video) ref count == 2
+d3d      D          d3d_bmp.cpp:457  _al_d3d_sync_bitmap              [  37.22683] _al_d3d_sync_bitmap (system) ref count == 1
+d3d      D          d3d_bmp.cpp:462  _al_d3d_sync_bitmap              [  37.22687] _al_d3d_sync_bitmap (video) ref count == 2
+d3d      D          d3d_bmp.cpp:457  _al_d3d_sync_bitmap              [  37.22787] _al_d3d_sync_bitmap (system) ref count == 1
+d3d      D          d3d_bmp.cpp:462  _al_d3d_sync_bitmap              [  37.22791] _al_d3d_sync_bitmap (video) ref count == 2
+d3d      D          d3d_bmp.cpp:457  _al_d3d_sync_bitmap              [  44.79350] _al_d3d_sync_bitmap (system) ref count == 1
+d3d      D          d3d_bmp.cpp:462  _al_d3d_sync_bitmap              [  44.79353] _al_d3d_sync_bitmap (video) ref count == 2
+d3d      D          d3d_bmp.cpp:457  _al_d3d_sync_bitmap              [  44.82180] _al_d3d_sync_bitmap (system) ref count == 1
+d3d      D          d3d_bmp.cpp:462  _al_d3d_sync_bitmap              [  44.82192] _al_d3d_sync_bitmap (video) ref count == 2
+d3d      D          d3d_bmp.cpp:457  _al_d3d_sync_bitmap              [  53.89633] _al_d3d_sync_bitmap (system) ref count == 1
+d3d      D          d3d_bmp.cpp:462  _al_d3d_sync_bitmap              [  53.89636] _al_d3d_sync_bitmap (video) ref count == 2
+d3d      D          d3d_bmp.cpp:457  _al_d3d_sync_bitmap              [  53.92437] _al_d3d_sync_bitmap (system) ref count == 1
+d3d      D          d3d_bmp.cpp:462  _al_d3d_sync_bitmap              [  53.92448] _al_d3d_sync_bitmap (video) ref count == 2
+d3d      D          d3d_bmp.cpp:457  _al_d3d_sync_bitmap              [  66.44114] _al_d3d_sync_bitmap (system) ref count == 1
+d3d      D          d3d_bmp.cpp:462  _al_d3d_sync_bitmap              [  66.44117] _al_d3d_sync_bitmap (video) ref count == 2
+d3d      D          d3d_bmp.cpp:457  _al_d3d_sync_bitmap              [  66.47189] _al_d3d_sync_bitmap (system) ref count == 1
+d3d      D          d3d_bmp.cpp:462  _al_d3d_sync_bitmap              [  66.47200] _al_d3d_sync_bitmap (video) ref count == 2
+audio    D          kcm_mixer.c:122  _al_rechannel_matrix             [  69.90119] sample matrix:
+audio    D          kcm_mixer.c:128  _al_rechannel_matrix             [  69.90123]  0.500000
+audio    D          kcm_mixer.c:128  _al_rechannel_matrix             [  69.90125]  0.500000
+d3d      D          d3d_bmp.cpp:457  _al_d3d_sync_bitmap              [  70.44796] _al_d3d_sync_bitmap (system) ref count == 1
+d3d      D          d3d_bmp.cpp:462  _al_d3d_sync_bitmap              [  70.44802] _al_d3d_sync_bitmap (video) ref count == 2
+d3d      D          d3d_bmp.cpp:457  _al_d3d_sync_bitmap              [  70.44887] _al_d3d_sync_bitmap (system) ref count == 1
+d3d      D          d3d_bmp.cpp:462  _al_d3d_sync_bitmap              [  70.44892] _al_d3d_sync_bitmap (video) ref count == 2
+bitmap   D             bitmap.c:822  _al_convert_to_memory_bitmap     [  97.71846] converting display bitmap 06DBDEC8 to memory bitmap
+d3d      D          d3d_bmp.cpp:457  _al_d3d_sync_bitmap              [  97.71885] _al_d3d_sync_bitmap (system) ref count == 1
+d3d      D          d3d_bmp.cpp:462  _al_d3d_sync_bitmap              [  97.71890] _al_d3d_sync_bitmap (video) ref count == 2
+d3d      W          d3d_bmp.cpp:677  d3d_destroy_bitmap               [  97.72043] d3d_destroy_bitmap: Release video texture failed.
+bitmap   D             bitmap.c:822  _al_convert_to_memory_bitmap     [  97.72059] converting display bitmap 00C60DD8 to memory bitmap
+d3d      D          d3d_bmp.cpp:457  _al_d3d_sync_bitmap              [  97.72091] _al_d3d_sync_bitmap (system) ref count == 1
+d3d      D          d3d_bmp.cpp:462  _al_d3d_sync_bitmap              [  97.72096] _al_d3d_sync_bitmap (video) ref count == 2
+d3d      W          d3d_bmp.cpp:677  d3d_destroy_bitmap               [  97.72232] d3d_destroy_bitmap: Release video texture failed.
+bitmap   D             bitmap.c:822  _al_convert_to_memory_bitmap     [  97.72264] converting display bitmap 00C5EBD8 to memory bitmap
+d3d      D          d3d_bmp.cpp:457  _al_d3d_sync_bitmap              [  97.72298] _al_d3d_sync_bitmap (system) ref count == 1
+d3d      D          d3d_bmp.cpp:462  _al_d3d_sync_bitmap              [  97.72303] _al_d3d_sync_bitmap (video) ref count == 2
+d3d      W          d3d_bmp.cpp:677  d3d_destroy_bitmap               [  97.72442] d3d_destroy_bitmap: Release video texture failed.
+d3d      W         d3d_disp.cpp:798  d3d_destroy_device               [  97.73418] d3d_destroy_device: ref count not 0
+d3d      I         d3d_disp.cpp:1705 d3d_display_thread_proc          [  97.73785] d3d display thread exits
+dtor     D               dtor.c:214  _al_unregister_destructor        [  97.73834] removed dtor for object 00C4E200
+dtor     D               dtor.c:214  _al_unregister_destructor        [  97.73838] removed dtor for object 00C4E248
+dtor     D               dtor.c:214  _al_unregister_destructor        [  97.73845] removed dtor for object 00C4E290
+dtor     D               dtor.c:214  _al_unregister_destructor        [  97.73865] removed dtor for object 00C4E2D8
+dtor     D               dtor.c:214  _al_unregister_destructor        [  97.73875] removed dtor for object 00C4E320
+dtor     D               dtor.c:214  _al_unregister_destructor        [  97.73929] removed dtor for object 00C5EAD8
+dtor     D               dtor.c:114  _al_run_destructors              [  97.73942] calling dtor for object 00D2EE40, func 66681D89
+dtor     D               dtor.c:214  _al_unregister_destructor        [  97.73944] removed dtor for object 00D2EE40
+dtor     D               dtor.c:114  _al_run_destructors              [  97.73961] calling dtor for object 00D2ECB8, func 66681D89
+dtor     D               dtor.c:214  _al_unregister_destructor        [  97.73963] removed dtor for object 00D2ECB8
+dtor     D               dtor.c:114  _al_run_destructors              [  97.73968] calling dtor for object 06C887A8, func 666826E9
+dtor     D               dtor.c:214  _al_unregister_destructor        [  97.73970] removed dtor for object 06C887A8
+dtor     D               dtor.c:114  _al_run_destructors              [  97.73974] calling dtor for object 06C88710, func 66681938
+dtor     D               dtor.c:214  _al_unregister_destructor        [  97.73975] removed dtor for object 06C88710
+dtor     D               dtor.c:114  _al_run_destructors              [  97.73976] calling dtor for object 00C68CC0, func 66681D89
+dtor     D               dtor.c:214  _al_unregister_destructor        [  97.73977] removed dtor for object 00C68CC0
+dtor     D               dtor.c:114  _al_run_destructors              [  97.73986] calling dtor for object 00C68C50, func 66681D89
+dtor     D               dtor.c:214  _al_unregister_destructor        [  97.73987] removed dtor for object 00C68C50
+dtor     D               dtor.c:114  _al_run_destructors              [  97.73991] calling dtor for object 00D2BCA0, func 666826E9
+dtor     D               dtor.c:214  _al_unregister_destructor        [  97.76821] removed dtor for object 00D2BCA0
+dtor     D               dtor.c:114  _al_run_destructors              [  97.76832] calling dtor for object 06C36ED8, func 66681938
+dtor     D               dtor.c:214  _al_unregister_destructor        [  97.76833] removed dtor for object 06C36ED8
+dtor     D               dtor.c:114  _al_run_destructors              [  97.76834] calling dtor for object 00C68748, func 66681D89
+dtor     D               dtor.c:214  _al_unregister_destructor        [  97.76835] removed dtor for object 00C68748
+dtor     D               dtor.c:114  _al_run_destructors              [  97.76842] calling dtor for object 00C28F50, func 66681D89
+dtor     D               dtor.c:214  _al_unregister_destructor        [  97.76843] removed dtor for object 00C28F50
+dtor     D               dtor.c:114  _al_run_destructors              [  97.76865] calling dtor for object 00C2F888, func 66681938
+dtor     D               dtor.c:214  _al_unregister_destructor        [  97.76867] removed dtor for object 00C2F888
+dtor     D               dtor.c:214  _al_unregister_destructor        [  97.76870] removed dtor for object 00C566F0
+dtor     D               dtor.c:214  _al_unregister_destructor        [  97.76872] removed dtor for object 00C564B0
+dtor     D               dtor.c:214  _al_unregister_destructor        [  97.76873] removed dtor for object 00C565B0
+dtor     D               dtor.c:214  _al_unregister_destructor        [  97.76874] removed dtor for object 00C5CB00
+dtor     D               dtor.c:214  _al_unregister_destructor        [  97.76875] removed dtor for object 00C5CC50
+dtor     D               dtor.c:214  _al_unregister_destructor        [  97.76877] removed dtor for object 00C5CDA0
+dtor     D               dtor.c:214  _al_unregister_destructor        [  97.76878] removed dtor for object 00C5CEA0
+dtor     D               dtor.c:214  _al_unregister_destructor        [  97.76879] removed dtor for object 00C5D050
+dtor     D               dtor.c:214  _al_unregister_destructor        [  97.76880] removed dtor for object 00C5D1C0
+dtor     D               dtor.c:214  _al_unregister_destructor        [  97.76881] removed dtor for object 00C5D330
+dtor     D               dtor.c:214  _al_unregister_destructor        [  97.76882] removed dtor for object 00C5D430
+dtor     D               dtor.c:214  _al_unregister_destructor        [  97.76884] removed dtor for object 00C5D530
+dtor     D               dtor.c:214  _al_unregister_destructor        [  97.76885] removed dtor for object 00C5D630
+dtor     D               dtor.c:214  _al_unregister_destructor        [  97.76886] removed dtor for object 00C5D730
+dtor     D               dtor.c:214  _al_unregister_destructor        [  97.76887] removed dtor for object 00C5D830
+dtor     D               dtor.c:214  _al_unregister_destructor        [  97.76888] removed dtor for object 00C5DA60
+dtor     D               dtor.c:214  _al_unregister_destructor        [  97.76891] removed dtor for object 00C5DC10
+dtor     D               dtor.c:214  _al_unregister_destructor        [  97.76892] removed dtor for object 00C5DDD8
+dtor     D               dtor.c:214  _al_unregister_destructor        [  97.76893] removed dtor for object 00C5DED8
+dtor     D               dtor.c:214  _al_unregister_destructor        [  97.76895] removed dtor for object 00C5DFD8
+dtor     D               dtor.c:214  _al_unregister_destructor        [  97.76896] removed dtor for object 00C5E0D8
+dtor     D               dtor.c:214  _al_unregister_destructor        [  97.76898] removed dtor for object 00C5E1D8
+dtor     D               dtor.c:214  _al_unregister_destructor        [  97.76899] removed dtor for object 00C5E2D8
+dtor     D               dtor.c:214  _al_unregister_destructor        [  97.76900] removed dtor for object 00C5E3D8
+dtor     D               dtor.c:214  _al_unregister_destructor        [  97.76901] removed dtor for object 00C5E4D8
+dtor     D               dtor.c:214  _al_unregister_destructor        [  97.76902] removed dtor for object 00C5E5D8
+dtor     D               dtor.c:214  _al_unregister_destructor        [  97.76903] removed dtor for object 00C5E6D8
+dtor     D               dtor.c:214  _al_unregister_destructor        [  97.76904] removed dtor for object 00C5E7D8
+dtor     D               dtor.c:214  _al_unregister_destructor        [  97.76905] removed dtor for object 00C5E8D8
+dtor     D               dtor.c:214  _al_unregister_destructor        [  97.76906] removed dtor for object 00C5E9D8
+dtor     D               dtor.c:214  _al_unregister_destructor        [  97.76908] removed dtor for object 00C56398
+dtor     D               dtor.c:214  _al_unregister_destructor        [  97.77243] removed dtor for object 00C53C58
+dtor     D               dtor.c:114  _al_run_destructors              [  97.77246] calling dtor for object 06CE9E18, func 66682590
+dtor     D               dtor.c:214  _al_unregister_destructor        [  97.77252] removed dtor for object 06CE9E18
+dtor     D               dtor.c:114  _al_run_destructors              [  97.77258] calling dtor for object 06CE9DD0, func 66682590
+dtor     D               dtor.c:214  _al_unregister_destructor        [  97.77261] removed dtor for object 06CE9DD0
+dtor     D               dtor.c:114  _al_run_destructors              [  97.77264] calling dtor for object 06CE9D88, func 66682590
+dtor     D               dtor.c:214  _al_unregister_destructor        [  97.77265] removed dtor for object 06CE9D88
+dtor     D               dtor.c:114  _al_run_destructors              [  97.77268] calling dtor for object 06CE9D40, func 66682590
+dtor     D               dtor.c:214  _al_unregister_destructor        [  97.77270] removed dtor for object 06CE9D40
+dtor     D               dtor.c:114  _al_run_destructors              [  97.77272] calling dtor for object 06CE9CF8, func 66682590
+dtor     D               dtor.c:214  _al_unregister_destructor        [  97.77273] removed dtor for object 06CE9CF8
+dtor     D               dtor.c:114  _al_run_destructors              [  97.77275] calling dtor for object 06CE9CB0, func 66682590
+dtor     D               dtor.c:214  _al_unregister_destructor        [  97.77276] removed dtor for object 06CE9CB0
+dtor     D               dtor.c:114  _al_run_destructors              [  97.77285] calling dtor for object 06CE9C68, func 66682590
+dtor     D               dtor.c:214  _al_unregister_destructor        [  97.77286] removed dtor for object 06CE9C68
+dtor     D               dtor.c:114  _al_run_destructors              [  97.77295] calling dtor for object 06CE9C20, func 66682590
+dtor     D               dtor.c:214  _al_unregister_destructor        [  97.77297] removed dtor for object 06CE9C20
+dtor     D               dtor.c:114  _al_run_destructors              [  97.77303] calling dtor for object 06CE9BD8, func 66682590
+dtor     D               dtor.c:214  _al_unregister_destructor        [  97.77305] removed dtor for object 06CE9BD8
+dtor     D               dtor.c:114  _al_run_destructors              [  97.77309] calling dtor for object 06CE9B90, func 66682590
+dtor     D               dtor.c:214  _al_unregister_destructor        [  97.77311] removed dtor for object 06CE9B90
+dtor     D               dtor.c:114  _al_run_destructors              [  97.77313] calling dtor for object 06CE9B48, func 66682590
+dtor     D               dtor.c:214  _al_unregister_destructor        [  97.77314] removed dtor for object 06CE9B48
+dtor     D               dtor.c:114  _al_run_destructors              [  97.77326] calling dtor for object 06CE9B00, func 66682590
+dtor     D               dtor.c:214  _al_unregister_destructor        [  97.77328] removed dtor for object 06CE9B00
+dtor     D               dtor.c:114  _al_run_destructors              [  97.77330] calling dtor for object 06CE9AB8, func 66682590
+dtor     D               dtor.c:214  _al_unregister_destructor        [  97.77331] removed dtor for object 06CE9AB8
+dtor     D               dtor.c:114  _al_run_destructors              [  97.77333] calling dtor for object 06CE9A70, func 66682590
+dtor     D               dtor.c:214  _al_unregister_destructor        [  97.77334] removed dtor for object 06CE9A70
+dtor     D               dtor.c:114  _al_run_destructors              [  97.77336] calling dtor for object 06CE9710, func 66682590
+dtor     D               dtor.c:214  _al_unregister_destructor        [  97.77337] removed dtor for object 06CE9710
+dtor     D               dtor.c:114  _al_run_destructors              [  97.77344] calling dtor for object 06CE96C8, func 66682590
+dtor     D               dtor.c:214  _al_unregister_destructor        [  97.77345] removed dtor for object 06CE96C8
+dtor     D               dtor.c:114  _al_run_destructors              [  97.77347] calling dtor for object 06CE9680, func 66682590
+dtor     D               dtor.c:214  _al_unregister_destructor        [  97.77348] removed dtor for object 06CE9680
+dtor     D               dtor.c:114  _al_run_destructors              [  97.77351] calling dtor for object 06CE9638, func 66682590
+dtor     D               dtor.c:214  _al_unregister_destructor        [  97.77352] removed dtor for object 06CE9638
+dtor     D               dtor.c:114  _al_run_destructors              [  97.77355] calling dtor for object 06CE95F0, func 66682590
+dtor     D               dtor.c:214  _al_unregister_destructor        [  97.77356] removed dtor for object 06CE95F0
+dtor     D               dtor.c:114  _al_run_destructors              [  97.77358] calling dtor for object 06CE95A8, func 66682590
+dtor     D               dtor.c:214  _al_unregister_destructor        [  97.77359] removed dtor for object 06CE95A8
+dtor     D               dtor.c:114  _al_run_destructors              [  97.77367] calling dtor for object 06CE9560, func 66682590
+dtor     D               dtor.c:214  _al_unregister_destructor        [  97.77368] removed dtor for object 06CE9560
+dtor     D               dtor.c:114  _al_run_destructors              [  97.77380] calling dtor for object 06CE9518, func 66682590
+dtor     D               dtor.c:214  _al_unregister_destructor        [  97.77383] removed dtor for object 06CE9518
+dtor     D               dtor.c:114  _al_run_destructors              [  97.77388] calling dtor for object 06CE94D0, func 66682590
+dtor     D               dtor.c:214  _al_unregister_destructor        [  97.77390] removed dtor for object 06CE94D0
+dtor     D               dtor.c:114  _al_run_destructors              [  97.77393] calling dtor for object 00C4E7E8, func 66682590
+dtor     D               dtor.c:214  _al_unregister_destructor        [  97.77395] removed dtor for object 00C4E7E8
+dtor     D               dtor.c:114  _al_run_destructors              [  97.77397] calling dtor for object 00C4E7A0, func 66682590
+dtor     D               dtor.c:214  _al_unregister_destructor        [  97.77398] removed dtor for object 00C4E7A0
+dtor     D               dtor.c:114  _al_run_destructors              [  97.77409] calling dtor for object 00C4E758, func 66682590
+dtor     D               dtor.c:214  _al_unregister_destructor        [  97.77411] removed dtor for object 00C4E758
+dtor     D               dtor.c:114  _al_run_destructors              [  97.77415] calling dtor for object 00C4E710, func 66682590
+dtor     D               dtor.c:214  _al_unregister_destructor        [  97.77417] removed dtor for object 00C4E710
+dtor     D               dtor.c:114  _al_run_destructors              [  97.77419] calling dtor for object 00C4E6C8, func 66682590
+dtor     D               dtor.c:214  _al_unregister_destructor        [  97.77421] removed dtor for object 00C4E6C8

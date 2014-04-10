@@ -1,0 +1,67 @@
+Damian Hinch	457406
+Joseph Penn	473226
+
+Dig Dug Version History
+
+Version 0.1
+
+2012/08/22
+-Created screen and basic shapes for characters
+2012/08/25
+-Basic movement of the monsters and player. Character leaves a trail of rectangles behind
+	him and the monster cannot travel outside of the rectangle tunnel. Monsters are controlled
+	manually by user using W,A,S,D keys.
+2012/08/28
+-All objects put into classes. Monsters do not track the player but move autonomously, navigating
+	their way through the maze of tunnels - using a basic movement algorithm.
+012/08/29
+-Monsters now chase the player through the maze and when they catch him the game ends. If in a dead end tunnel,
+	they become stuck in preparation for transition in disembodied state to neighbouring tunnel.
+2012/08/30
+-Functionality as per version 0.13. Screen size set to 50x50 squares in grid, with earth textures and layers represented.
+	Basic graphics for all characters including colour differential for monster types.
+	Score-board area and boundaries set for playing area.
+
+Version 0.2
+	
+	
+
+Version 0.3
+		
+14/09/2012
+-Monster disembody better (stops at intermediate tunnels), doesn't get stuck.
+-Fixed a bug that made respawned monsters are frozen when shot with harpoon and digdug dies.
+-Monsters no longer move on top of one another (can't occupy same grid refernce).
+-Final animations for monsters and main character added.
+-Slowed game down slightly.
+-Basic splashscreen for program start.
+-Limit number of food items so that player has incentive to kill monsters.
+-When killed by rock, program pauses and lives displayed.
+
+19/09/2012
+-Set up file reading system for level construction. Users have the ability to design their own levels. 
+-Constructed 3 levels of varying difficulty.
+-Altered disembodied monsters state such that they cannot be killed by falling coffins
+
+20/09/2012
+-Implemeted level system and designed three unique levels.
+-Cyclical system setup so that user can replay the game until he pressed quit.
+-Updated scoring system.
+
+21/09/2012
+-Splash screen and user interface updated, more features added.
+-Score borad graphics and layout standardised.
+-General layout finalised.
+-High score system implemented.
+
+22/09/2012
+-Added audio for game screens.
+-Sound efffects added in game.
+-Fixed numerous gameplay bugs.
+
+23/09/2012
+-Added title sequence song (Let's fighting Love)
+
+24/09/2012
+-Fixed minor bug that allowed bonus food items to carry over between levels.
+-Altered food sequence so that each type of food appears only once per level.

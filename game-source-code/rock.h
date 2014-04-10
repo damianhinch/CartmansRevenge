@@ -50,6 +50,7 @@ from walking though rocks.
 	int isNearRock(xy pos) const; 
 	void setPos(xy pos);
 private:
+	bool _doesntdoanything;
 	xy _pos; 
 	bool _active; /*!< Whether the rock is in gameplay (i.e. rocks that haven't been used up) */  
 	bool _bottom;/*!< Rocks that have hit the ground, but that are still active i.e. digdug can't walk through them */  
